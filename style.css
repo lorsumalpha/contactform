@@ -1,0 +1,9 @@
+.content{
+    margin: 0 auto;
+    max-width: 29rem;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 10rem;
+}
